@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'JobsSwiftFoundation@Extensions'          # Pod 名
-  s.version      = '0.1.0'
+  s.version      = '0.1.1'
   s.summary      = 'Swift中关于Foundation的拓展'
   s.description  = <<-DESC
                       Swift.Foundation.Extensions
